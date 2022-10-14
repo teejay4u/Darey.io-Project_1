@@ -1,4 +1,4 @@
-# Project1 Documentation 
+# Project 1 Documentation 
 ##LAMP Stack Installation on virtual server 
 
 1. ![Installing Apache/verifying Apache is running]
