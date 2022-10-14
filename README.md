@@ -8,7 +8,7 @@
 1.  ![Creating a Virtual Host]
     (https://github.com/teejay4u/darey.io-MyProjects-/blob/4cce7fff6ead96b99e31429824c9c3f7c44ed7e1/Images%20Project1/Creating%20virtual%20host%201.png)
 1.  ![MySQL installation]
-    ()
+    (https://github.com/teejay4u/darey.io-MyProjects-/blob/8ccdb14919713c2a23f553ba6e3a69e114360875/Images%20Project1/Mysql%20installation.png)
 1.  ![status of running EC2 instance]
     ()
 1.  ![using SSH protocol to console into running instance]
