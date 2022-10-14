@@ -18,7 +18,7 @@
 1.  ![Editing security group to allow web traffic on port 80]
     (https://github.com/teejay4u/darey.io-MyProjects-/blob/ef14c99b4415df015df41616f6ef7e4ff48590bd/Images%20Project1/allowing%20web%20traffic%20on%20port%2080.png)
 1.  ![Verrifying php insatllation]
-    ()
+    (https://github.com/teejay4u/darey.io-MyProjects-/blob/91b0ff796bb8aa789fe6cd21dfb7031ce005ad83/Images%20Project1/checking%20to%20see%20php%20is%20installed.png)
 1.  ![insatlling php]
     ()
 1.  ![Navigating to privatekey.pem file]
