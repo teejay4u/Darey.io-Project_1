@@ -16,7 +16,7 @@
 1.  ![Testing Virtual Host]
     (https://github.com/teejay4u/darey.io-MyProjects-/blob/d6a513fcbca61fa90370ad5b4654bfb967b943eb/Images%20Project1/Testing%20virtualhost.png)
 1.  ![Editing security group to allow web traffic on port 80]
-    (https://github.com/teejay4u/darey.io-      MyProjects-/blob/ef14c99b4415df015df41616f6ef7e4ff48590bd/Images%20Project1/allowing%20web%20traffic%20on%20port%2080.png)
+    (https://github.com/teejay4u/darey.io-MyProjects-/blob/ef14c99b4415df015df41616f6ef7e4ff48590bd/Images%20Project1/allowing%20web%20traffic%20on%20port%2080.png)
 1.  ![Verrifying php insatllation]
     ()
 1.  ![insatlling php]
