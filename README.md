@@ -28,4 +28,4 @@
 1.  ![securring MySQL database]
     (https://github.com/teejay4u/darey.io-MyProjects-/blob/5d92f3953d37e1a237219eadf83db8d82ec4f319/Images%20Project1/securing%20MySQL%20database.png)
 1.  ![Loading Apache using hostname]
-    ()
+    (https://github.com/teejay4u/darey.io-MyProjects-/blob/7fe8c390a77940272126a4666d6e08a26a5def50/Images%20Project1/website%20from%20DNS%20hostname.png)
