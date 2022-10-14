@@ -14,7 +14,7 @@
 1.  ![using SSH protocol to console into running instance]
     (https://github.com/teejay4u/darey.io-MyProjects-/blob/9b646a8fa907f2879b22d796e3a7ff422037d1b1/Images%20Project1/SSh%20into%20instance.png)
 1.  ![Testing Virtual Host]
-    ()
+    (https://github.com/teejay4u/darey.io-MyProjects-/blob/d6a513fcbca61fa90370ad5b4654bfb967b943eb/Images%20Project1/Testing%20virtualhost.png)
 1.  ![Editing security group to allow web traffic on port 80]
     ()
 1.  ![Verrifying php insatllation]
