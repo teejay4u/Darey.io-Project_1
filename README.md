@@ -24,7 +24,7 @@
 1.  ![Navigating to privatekey.pem file]
     (https://github.com/teejay4u/darey.io-MyProjects-/blob/7c70d5ea57874362ac2b77a43fb0a9192c261f42/Images%20Project1/navigating%20to%20private%20key.png)
 1.  ![loading php test page]
-    ()
+    (https://github.com/teejay4u/darey.io-MyProjects-/blob/7bbe0f65d7dd94df2f738bbc5ff1053cae533093/Images%20Project1/php%20page.png)
 1.  ![securring MySQL database]
     ()
 1.  ![Loading Apache using hostname]
