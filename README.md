@@ -12,7 +12,7 @@
 1.  ![status of running EC2 instance]
     (https://github.com/teejay4u/darey.io-MyProjects-/blob/b6e21448a5ea6defcd509b0ece4e21567b424872/Images%20Project1/Running%20instance.png)
 1.  ![using SSH protocol to console into running instance]
-    ()
+    (https://github.com/teejay4u/darey.io-MyProjects-/blob/9b646a8fa907f2879b22d796e3a7ff422037d1b1/Images%20Project1/SSh%20into%20instance.png)
 1.  ![Testing Virtual Host]
     ()
 1.  ![Editing security group to allow web traffic on port 80]
