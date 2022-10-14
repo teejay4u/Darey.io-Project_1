@@ -20,7 +20,7 @@
 1.  ![Verrifying php insatllation]
     (https://github.com/teejay4u/darey.io-MyProjects-/blob/91b0ff796bb8aa789fe6cd21dfb7031ce005ad83/Images%20Project1/checking%20to%20see%20php%20is%20installed.png)
 1.  ![insatlling php]
-    ()
+    (https://github.com/teejay4u/darey.io-MyProjects-/blob/04e4d2b5394fddf68c63b9952d545477b69aa826/Images%20Project1/installing%20php%20.png)
 1.  ![Navigating to privatekey.pem file]
     ()
 1.  ![loading php test page]
