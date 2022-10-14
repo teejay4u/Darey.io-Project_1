@@ -26,6 +26,6 @@
 1.  ![loading php test page]
     (https://github.com/teejay4u/darey.io-MyProjects-/blob/7bbe0f65d7dd94df2f738bbc5ff1053cae533093/Images%20Project1/php%20page.png)
 1.  ![securring MySQL database]
-    ()
+    (https://github.com/teejay4u/darey.io-MyProjects-/blob/5d92f3953d37e1a237219eadf83db8d82ec4f319/Images%20Project1/securing%20MySQL%20database.png)
 1.  ![Loading Apache using hostname]
     ()
