@@ -22,7 +22,7 @@
 1.  ![insatlling php]
     (https://github.com/teejay4u/darey.io-MyProjects-/blob/04e4d2b5394fddf68c63b9952d545477b69aa826/Images%20Project1/installing%20php%20.png)
 1.  ![Navigating to privatekey.pem file]
-    ()
+    (https://github.com/teejay4u/darey.io-MyProjects-/blob/7c70d5ea57874362ac2b77a43fb0a9192c261f42/Images%20Project1/navigating%20to%20private%20key.png)
 1.  ![loading php test page]
     ()
 1.  ![securring MySQL database]
