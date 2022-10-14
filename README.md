@@ -10,7 +10,7 @@
 1.  ![MySQL installation]
     (https://github.com/teejay4u/darey.io-MyProjects-/blob/8ccdb14919713c2a23f553ba6e3a69e114360875/Images%20Project1/Mysql%20installation.png)
 1.  ![status of running EC2 instance]
-    ()
+    (https://github.com/teejay4u/darey.io-MyProjects-/blob/b6e21448a5ea6defcd509b0ece4e21567b424872/Images%20Project1/Running%20instance.png)
 1.  ![using SSH protocol to console into running instance]
     ()
 1.  ![Testing Virtual Host]
