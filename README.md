@@ -30,5 +30,5 @@
 1.  ![Loading Apache using hostname]
     (https://github.com/teejay4u/darey.io-MyProjects-/blob/7fe8c390a77940272126a4666d6e08a26a5def50/Images%20Project1/website%20from%20DNS%20hostname.png)
 
-file:///home/tunji/Pictures/creating%20index.html%20file%20to%20test%20server%20block.png
+<file:///home/tunji/Pictures/creating%20index.html%20file%20to%20test%20server%20block.png>
 
