@@ -1,8 +1,11 @@
 # Project 1 Documentation 
 ## LAMP Stack Installation on AWS virtual server 
 
+### Installing Apache and Verifying its running 
+
 1. ![Installing Apache/verifying Apache is running](/Images%20Project1/Apache%20Running%20.png)
 
+### Apache Default page 
 
 2. ![Apache default page with public IP](/Images%20Project1/Apache%20default%20page.png)
 
