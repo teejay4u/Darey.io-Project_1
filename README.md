@@ -1,8 +1,7 @@
 # Project 1 Documentation 
 ##LAMP Stack Installation on AWS virtual server 
 
-1. ![Installing Apache/verifying Apache is running]
-    (/Apache%20Running%20.png)
+1. ![Installing Apache/verifying Apache is running](Apache%20Running%20.png)
 1. ![Apache default page with public IP]
     (https://github.com/teejay4u/darey.io-MyProjects-/blob/58e3151335c5c125839ad85f48190a266b3c4192/Images%20Project1/Apache%20default%20page.png)
 1.  ![Creating a Virtual Host]
